@@ -1,6 +1,6 @@
 ### Olá, eu sou o Jonas Barreto 👋
 
-Estudante de **Ciência da Computação** (5º período — CR 9.3) com formação técnica em Redes de Computadores e experiência prática em **Suporte Técnico, Desenvolvimento Back-end e Automações com IA**.
+Estudante de **Ciência da Computação** (5º período) com formação técnica em Redes de Computadores e experiência prática em **Suporte Técnico, Desenvolvimento Back-end e Automações com IA**.
 
 - 🔭 **Foco atual:** Engenharia de Software, APIs REST, Bancos de Dados e Agentes Inteligentes (LLMs / RAG).
 - 💻 **Tecnologias:** Python (FastAPI), Node.js, Java, C, SQL, Kotlin (Android), Git, Linux e Windows.
