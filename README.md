@@ -9,3 +9,4 @@ Estudante de **Ciência da Computação** (5º período) com formação técnica
 ---
 
 ### 🚀 Projetos em Destaque
+[Achados e Perdidos Vizinhança](https://github.com/jonas-arrow/achados-e-perdidos-vizinhanca) — Ecossistema full-stack conectando um aplicativo Android nativo (Kotlin + SQLite) a uma API REST em Python.
